@@ -1,0 +1,8 @@
+namespace: svc-b
+commonLabels:
+  app: svc-b
+  env: dev
+bases:
+  - ../../../base/service/svc-b
+patches:
+  - app.yaml

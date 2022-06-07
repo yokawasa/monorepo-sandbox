@@ -1,0 +1,8 @@
+namespace: svc-a
+commonLabels:
+  app: svc-a
+  env: dev
+bases:
+  - ../../../base/service/svc-a
+patches:
+  - app.yaml
