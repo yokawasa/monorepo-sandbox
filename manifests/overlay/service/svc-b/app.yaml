@@ -1,0 +1,16 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: svc-b
+spec:
+  template:
+    spec:
+      containers:
+      - name: sleep
+        env:
+         - name: FOO_ENV
+           value: foo
+         - name: BAR_ENV
+           value: bar
+         - name: HOGE_ENV
+           value: hoge1
