@@ -8,8 +8,10 @@ spec:
       containers:
       - name: sleep
         env:
-         - name: FOO_ENV
-           value: foo
+         - name: XXX_ENV
+           value: xxx
+         - name: YYY_ENV
+           value: yyy
          - name: BAR_ENV
            value: bar
          - name: HOGE_ENV
