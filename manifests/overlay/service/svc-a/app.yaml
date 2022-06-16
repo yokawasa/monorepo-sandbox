@@ -22,4 +22,7 @@ spec:
            value: ccc
          - name: DDD_ENV
            value: bbb
-
+         - name: TEST_A
+           value: test_a
+         - name: TEST_B
+           value: test_b
