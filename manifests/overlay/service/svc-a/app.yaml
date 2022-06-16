@@ -26,3 +26,7 @@ spec:
            value: test_a
          - name: TEST_B
            value: test_b
+         - name: TEST_C
+           value: test_c
+         - name: TEST_D
+           value: test_d
