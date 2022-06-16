@@ -14,3 +14,7 @@ spec:
            value: bar
          - name: HOGE_ENV
            value: hoge1
+         - name: TEST_A
+           value: test_a
+         - name: TEST_B
+           value: test_b
