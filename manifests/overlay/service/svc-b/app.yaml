@@ -20,3 +20,7 @@ spec:
            value: param_b
          - name: PARAM_C
            value: param_c
+         - name: TEST_A
+           value: test_a
+         - name: TEST_B
+           value: test_b
