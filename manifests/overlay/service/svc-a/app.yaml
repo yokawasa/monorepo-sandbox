@@ -14,4 +14,12 @@ spec:
            value: bar
          - name: HOGE_ENV
            value: hoge2
+         - name: AAA_ENV
+           value: aaa
+         - name: BBB_ENV
+           value: bbb
+         - name: CCC_ENV
+           value: ccc
+         - name: DDD_ENV
+           value: bbb
 
