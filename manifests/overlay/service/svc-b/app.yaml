@@ -14,3 +14,9 @@ spec:
            value: bar
          - name: HOGE_ENV
            value: hoge1
+         - name: PARAM_A
+           value: param_a
+         - name: PARAM_B
+           value: param_b
+         - name: PARAM_C
+           value: param_c
