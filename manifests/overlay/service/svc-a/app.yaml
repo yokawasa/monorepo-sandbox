@@ -18,4 +18,8 @@ spec:
            value: aaa
          - name: BBB_ENV
            value: bbb
+         - name: CCC_ENV
+           value: ccc
+         - name: DDD_ENV
+           value: bbb
 
