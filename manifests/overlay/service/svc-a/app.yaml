@@ -31,3 +31,6 @@ spec:
          - name: TEST_C
            value: test_a
          - name: TEST_D
+           value: test_c
+         - name: TEST_D
+           value: test_d
